@@ -8,7 +8,7 @@ This plugin introduces a category-based search functionality to the Question2Ans
 Please note that this plugin is currently in beta. It may contain bugs or incomplete features. We recommend using it cautiously in production environments.
 
 ## Prerequisites
-Ensure that the **Search Box widget** is added in the Admin Panel, as the category dropdown is integrated directly next to the search box.
+Ensure that the **Search Box widget** is added in the Layout section in Admin Panel, as the category dropdown is integrated directly next to the search box.
 
 
 ## Installation
